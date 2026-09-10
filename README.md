@@ -31,8 +31,18 @@ El contenido está organizado de forma sencilla en las siguientes carpetas:
 Aquí puedes acceder rápidamente a las notas teóricas más importantes:
 
 1. 📄 [Lenguajes de Programación](./apuntes/Lenguajes%20de%20Programación.md)
+2. 📄 [Programacion Funcional](./apuntes/Programación%20funcional.md)
+3. 📄 [Common Lisp](./apuntes/Common%20Lisp.md)
 
 *(Más apuntes se irán agregando conforme avance el curso)*
+
+## 💻 Índice de Prácticas
+
+Aquí encontrarás los ejercicios prácticos de programación desarrollados durante el curso:
+
+1. 💻 [Conversión de Temperaturas en Lisp](./practicas/temperaturas.lisp)
+
+*(Más prácticas se irán agregando conforme avance el curso)*
 
 ---
 
