@@ -41,6 +41,7 @@ Aquí puedes acceder rápidamente a las notas teóricas más importantes:
 Aquí encontrarás los ejercicios prácticos de programación desarrollados durante el curso:
 
 1. 💻 [Conversión de Temperaturas en Lisp](./practicas/temperaturas.lisp)
+2. 💻 [Listas y Búsqueda de Datos en Lisp](./practicas/listas.lisp)
 
 *(Más prácticas se irán agregando conforme avance el curso)*
 
