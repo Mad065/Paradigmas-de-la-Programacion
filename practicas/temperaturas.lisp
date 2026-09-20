@@ -1,6 +1,6 @@
 ;;;; Practica 1: Conversión de Temperaturas
 ;;;; Paradigmas de la Programación - ESCOM
-;;;; Autor: Mad0
+;;;; Autor: José Antonio Martínez Castañón
 
 ;;; Función para convertir de Celsius a Fahrenheit
 ;;; Fórmula: (C * 9/5) + 32

@@ -42,6 +42,8 @@ Aquí encontrarás los ejercicios prácticos de programación desarrollados dura
 
 1. 💻 [Conversión de Temperaturas en Lisp](./practicas/temperaturas.lisp)
 2. 💻 [Listas y Búsqueda de Datos en Lisp](./practicas/listas.lisp)
+3. 💻 [Extraccion de datos en Lisp](./practicas/extraccion_listas.lisp)
+
 
 *(Más prácticas se irán agregando conforme avance el curso)*
 
