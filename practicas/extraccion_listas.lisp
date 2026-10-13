@@ -1,6 +1,6 @@
 ;;;; Practica 3: Extracción de Elementos con CAR y CDR
 ;;;; Paradigmas de la Programación - ESCOM
-;;;; Autor: Mad0
+;;;; Autor: José Antonio Martínez Castañón
 
 ;;; Definición de las listas usando setq
 ;;; Cada variable almacena una de las listas de la imagen
