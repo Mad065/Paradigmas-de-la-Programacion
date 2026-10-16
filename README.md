@@ -33,6 +33,7 @@ Aquí puedes acceder rápidamente a las notas teóricas más importantes:
 1. 📄 [Lenguajes de Programación](./apuntes/Lenguajes%20de%20Programación.md)
 2. 📄 [Programacion Funcional](./apuntes/Programación%20funcional.md)
 3. 📄 [Common Lisp](./apuntes/Common%20Lisp.md)
+4. 📄 [Prolog](./apuntes/Prolog.md)
 
 *(Más apuntes se irán agregando conforme avance el curso)*
 
