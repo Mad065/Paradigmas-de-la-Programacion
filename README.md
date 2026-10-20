@@ -45,8 +45,7 @@ Aquí encontrarás los ejercicios prácticos de programación desarrollados dura
 2. 💻 [Listas y Búsqueda de Datos en Lisp](./practicas/listas.lisp)
 3. 💻 [Extraccion de datos en Lisp](./practicas/extraccion_listas.lisp)
 4. 💻 [Manipulacion de listas con recursividad en Lisp](./practicas/manipulacion_recursivas_listas.lisp)
-
-
+5. 💻 [Base de Conocimientos en Prolog](./practicas/familia.pl)
 *(Más prácticas se irán agregando conforme avance el curso)*
 
 ---
