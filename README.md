@@ -34,6 +34,7 @@ Aquí puedes acceder rápidamente a las notas teóricas más importantes:
 2. 📄 [Programacion Funcional](./apuntes/Programación%20funcional.md)
 3. 📄 [Common Lisp](./apuntes/Common%20Lisp.md)
 4. 📄 [Prolog](./apuntes/Prolog.md)
+5. 📄 [Programación Orientada a Objetos con Java](./apuntes/Programación%20Orientada%20a%20Objetos%20con%20Java.md)
 
 *(Más apuntes se irán agregando conforme avance el curso)*
 
@@ -46,6 +47,7 @@ Aquí encontrarás los ejercicios prácticos de programación desarrollados dura
 3. 💻 [Extraccion de datos en Lisp](./practicas/extraccion_listas.lisp)
 4. 💻 [Manipulacion de listas con recursividad en Lisp](./practicas/manipulacion_recursivas_listas.lisp)
 5. 💻 [Base de Conocimientos en Prolog](./practicas/familia.pl)
+6. 💻 [Operaciones con Listas en Prolog](./practicas/operaciones_listas.pl)
 *(Más prácticas se irán agregando conforme avance el curso)*
 
 ---
