@@ -34,7 +34,8 @@ Aquí puedes acceder rápidamente a las notas teóricas más importantes:
 2. 📄 [Programacion Funcional](./apuntes/Programación%20funcional.md)
 3. 📄 [Common Lisp](./apuntes/Common%20Lisp.md)
 4. 📄 [Prolog](./apuntes/Prolog.md)
-5. 📄 [Programación Orientada a Objetos con Java](./apuntes/Programación%20Orientada%20a%20Objetos%20con%20Java.md)
+5. 📄 [Guía Completa: Common Lisp y Prolog (Teoría y Prácticas)](./apuntes/Guia_Completa_Lisp_y_Prolog.md)
+6. 📄 [Programación Orientada a Objetos con Java](./apuntes/Programación%20Orientada%20a%20Objetos%20con%20Java.md)
 
 *(Más apuntes se irán agregando conforme avance el curso)*
 
