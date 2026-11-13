@@ -49,6 +49,8 @@ Aquí encontrarás los ejercicios prácticos de programación desarrollados dura
 4. 💻 [Manipulacion de listas con recursividad en Lisp](./practicas/manipulacion_recursivas_listas.lisp)
 5. 💻 [Base de Conocimientos en Prolog](./practicas/familia.pl)
 6. 💻 [Operaciones con Listas en Prolog](./practicas/operaciones_listas.pl)
+7. 💻 [Figuras Geométricas en Java](./practicas/figuras)
+
 *(Más prácticas se irán agregando conforme avance el curso)*
 
 ---
